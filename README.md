@@ -1,2 +1,2 @@
-- 👋 Hi, I’m a Ph.D candidate with Electrical Engineering Department, HKPolyU, Hong Kong.
+- 👋 Hi, I am currently a postdoctoral fellow at The University of British Columbia (UBC).
 
